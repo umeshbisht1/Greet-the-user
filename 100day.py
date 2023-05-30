@@ -11,7 +11,7 @@ elif time2>=12 and time2<=16:
 elif time2>=17 and time2<=18:
     print("Good evening:::",time1)
 elif time2>18 and time2<23 :
-    print("Good night Hsve a  sweet dream::",time1)
+    print("Good night Have a  sweet dream::",time1)
 else:
     print("sweet dream sir ")    
 
